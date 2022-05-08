@@ -1,9 +1,9 @@
 # Calculating_Over_hours
 
-This projects is meants to show the client at the end of the month how much energy they have consume which is out of the contracted hours. We call this overhours
-
+This project shows the client at the end of the month how much energy they have consumed, which is out of the contracted hours. We call this over hours.
 Example:
 
-A client should not use more than 13 hours in a day
-The client used 14 hours
-The over hour of 1 has to be accounted for and billed the client respectively
+A client should not use energy for over 13 hours in a day. 
+
+If the client used 14 hours, the overhour of 1 has to be accounted for and billed to the client, respectively.
+
